@@ -1,3 +1,3 @@
 # BikeEscape
 
-Website: https://bikeescape.rf.gd
+Website: https://kogames.rf.gd/bikeescape
